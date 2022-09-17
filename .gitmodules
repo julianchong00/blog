@@ -1,0 +1,4 @@
+[submodule "julianchongwebsite/public"]
+	path = julianchongwebsite/public
+	url = https://github.com/julianchong00/julianchong00.github.io.git
+	branch = main
