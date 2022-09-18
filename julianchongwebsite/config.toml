@@ -4,6 +4,7 @@ languageCode = "en-gb"
 title = "Julian Chong"
 theme = "hugo-developer-portfolio"
 googleAnalytics = ""
+disableKinds = ['taxonomy', 'term']
 
 # Remove this when using normally
 # themesDir = "../../" 
