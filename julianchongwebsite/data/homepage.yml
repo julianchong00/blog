@@ -39,6 +39,7 @@ experience:
       title: init.g
       company: Google
       duration: November 2019
+      description: test hello world this is a description for experience
 hackathons:
   enable: true
   item:
@@ -59,7 +60,7 @@ education:
       year: 2018 - 2022
       academy: University of Southampton
       image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793268/logos/logos_Durham_fc2sae.svg
-      description: test
+      result: First Class Honours
 leadership:
   enable: true
   item:
