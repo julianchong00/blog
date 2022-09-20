@@ -1,0 +1,22 @@
+---
+label: Blog Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: text
+  name: author
+  label: author
+- type: text
+  name: type
+  label: type
+- type: list
+  name: tags
+  label: tags
