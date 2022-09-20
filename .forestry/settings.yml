@@ -36,6 +36,7 @@ sections:
   label: Data
   create: all
   match: "**/*"
+  new_doc_ext: ".yml"
 upload_dir: julianchongwebsite//static/uploads
 public_path: "/uploads"
 front_matter_path: ''
