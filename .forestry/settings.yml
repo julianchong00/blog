@@ -9,7 +9,6 @@ sections:
   label: Pages
   create: all
   match: "*"
-  exclude: _index.md
 - type: directory
   path: content/portfolio
   label: Portfolio
@@ -27,13 +26,11 @@ sections:
   label: About
   create: all
   match: "**/*"
-  exclude: _index.md
 - type: directory
   path: content/contact
   label: Contact
   create: all
   match: "**/*"
-  exclude: _index.md
 upload_dir: julianchongwebsite//static/uploads
 public_path: "/uploads"
 front_matter_path: ''
