@@ -5,30 +5,35 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: julianchongwebsite/content
+  path: content
   label: Pages
   create: all
   match: "*"
+  exclude: _index.md
 - type: directory
-  path: julianchongwebsite/content/portfolio
+  path: content/portfolio
   label: Portfolio
   create: all
   match: "**/*"
+  exclude: _index.md
 - type: directory
-  path: julianchongwebsite/content/blog
+  path: content/blog
   label: Blog
   create: all
   match: "**/*"
+  exclude: _index.md
 - type: directory
-  path: julianchongwebsite/content/about
+  path: content/about
   label: About
   create: all
   match: "**/*"
+  exclude: _index.md
 - type: directory
-  path: julianchongwebsite/content/contact
+  path: content/contact
   label: Contact
   create: all
   match: "**/*"
+  exclude: _index.md
 upload_dir: julianchongwebsite//static/uploads
 public_path: "/uploads"
 front_matter_path: ''
