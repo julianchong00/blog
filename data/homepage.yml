@@ -24,19 +24,19 @@ skill:
       logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
       description: Details coming soon, contact me if you want to know more
     - title: Python
-      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845204/blog/python-logo.svg
+      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845204/blog/logos/python-logo.svg
       description: Python description
     - title: Java
-      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845715/blog/java-logo.svg
+      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845715/blog/logos/java-logo.svg
       description: Java description
     - title: C#
-      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845715/blog/c-sharp-logo.svg
+      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845715/blog/logos/c-sharp-logo.svg
       description: C# Description
     - title: Golang
-      logo: https://res.cloudinary.com/dqa9brug6/image/upload/c_fill/v1663845439/blog/golang-logo.svg
+      logo: https://res.cloudinary.com/dqa9brug6/image/upload/c_fill/v1663845439/blog/logos/golang-logo.svg
       description: Golang description
     - title: Linux
-      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845318/blog/linux-logo.svg
+      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845318/blog/logos/linux-logo.svg
       description: Linux description
 experience:
   enable: true
@@ -68,7 +68,7 @@ education:
     - title: MEng Computer Science
       year: 2018 - 2022
       academy: University of Southampton
-      image: https://res.cloudinary.com/dqa9brug6/image/upload/h_900,w_900/v1663847281/blog/soton-uni-logo.jpg
+      image: https://res.cloudinary.com/dqa9brug6/image/upload/h_900,w_900/v1663847281/blog/logos/soton-uni-logo.jpg
       result: First Class Honours
 leadership:
   enable: false
