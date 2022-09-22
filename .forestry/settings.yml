@@ -38,7 +38,7 @@ sections:
   match: "**/*"
   new_doc_ext: yml
 upload_dir: ''
-public_path: ''
+public_path: https://res.cloudinary.com/dqa9brug6/image/upload
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
