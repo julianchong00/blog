@@ -24,13 +24,19 @@ skill:
       logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
       description: Details coming soon, contact me if you want to know more
     - title: Python
-      logo: WIP
+      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845204/blog/python-logo.svg
       description: Python description
+    - title: Java
+      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845715/blog/java-logo.svg
+      description: Java description
+    - title: C#
+      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845715/blog/c-sharp-logo.svg
+      description: C# Description
     - title: Golang
-      logo: WIP
+      logo: https://res.cloudinary.com/dqa9brug6/image/upload/c_fill/v1663845439/blog/golang-logo.svg
       description: Golang description
     - title: Linux
-      logo: WIP
+      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845318/blog/linux-logo.svg
       description: Linux description
 experience:
   enable: true
@@ -50,25 +56,35 @@ hackathons:
 certifications:
   enable: true
   item:
-    - title: Microsoft Azure Fundamentals
-      image: https://res.cloudinary.com/samrobbins/image/upload/v1592501459/microsoft-certified-fundamentals-badge_cpcgyn.svg
-      url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
+    - title: "Microsoft Certified: Azure AI Fundamentals"
+      image: https://res.cloudinary.com/dqa9brug6/image/upload/v1663846365/blog/certifications/azure-ai-fundamentals-logo.png
+      url: https://www.credly.com/badges/48c09f46-2733-46a1-a9f4-8fe2f258ea55/public_url
+    - title: "Microsoft Certified: Security, Compliance, and Identity Fundamentals"
+      image: https://res.cloudinary.com/dqa9brug6/image/upload/v1663846290/blog/certifications/security-compliance-and-identity-fundamentals-logo.png
+      url: https://www.credly.com/badges/0bf74065-5737-468e-90a1-ec3d85faeb98/public_url
 education:
   enable: true
   item:
     - title: MEng Computer Science
       year: 2018 - 2022
       academy: University of Southampton
-      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793268/logos/logos_Durham_fc2sae.svg
+      image: https://res.cloudinary.com/dqa9brug6/image/upload/h_900,w_900/v1663847281/blog/soton-uni-logo.jpg
       result: First Class Honours
 leadership:
-  enable: true
+  enable: false
   item:
     - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793280/logos/logos_yl_qozav6.webp
       title: Young Leader
       company: The Scout Association
       duration: September 2014 - July 2018
 portfolio:
+  enable: false
   filter:
     - label: Web Dev
       value: web-dev
+  item:
+    - title: Hugo Portfolio Website
+      image: https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1591793276/logos/logos_hugo_h2xbne.svg
+      description: A portfolio website made with Hugo
+      tools: ["Hugo", "Forestry.io CMS", "Github Pages"]
+      link: "/portfolio/hugo-portfolio-website"
