@@ -5,6 +5,7 @@ title = "Julian Chong"
 theme = "hugo-developer-portfolio"
 googleAnalytics = ""
 disableKinds = ['taxonomy', 'term']
+cloudinary_url = "https://res.cloudinary.com/dqa9brug6/image/upload"
 
 # Remove this when using normally
 # themesDir = "../../" 
