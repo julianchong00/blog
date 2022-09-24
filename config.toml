@@ -61,7 +61,7 @@ author = "Julian Chong"
 
   [params.contact]
   enable = true
-  formAction = "" #contact form works with formspree.io
+  formAction = "https://getform.io/f/9db11d3b-16f1-446c-a76f-e94ac6e17850" #contact form works with formspree.io
 
   [params.footer]
   email = "julianchong00@outlook.com"

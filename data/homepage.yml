@@ -31,9 +31,9 @@ skill:
       description: Java description
     - title: C#
       logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845715/blog/logos/c-sharp-logo.svg
-      description: C# Description
+      description: C# description
     - title: Golang
-      logo: https://res.cloudinary.com/dqa9brug6/image/upload/c_fill/v1663845439/blog/logos/golang-logo.svg
+      logo: https://res.cloudinary.com/dqa9brug6/image/upload/c_fit/v1663845439/blog/logos/golang-logo.svg
       description: Golang description
     - title: Linux
       logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845318/blog/logos/linux-logo.svg
@@ -41,13 +41,20 @@ skill:
 experience:
   enable: true
   item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
-      title: init.g
-      company: Google
-      duration: November 2019
-      description: test hello world this is a description for experience
+    - logo: https://res.cloudinary.com/dqa9brug6/image/upload/c_fill/v1663992004/blog/logos/revenue-monster-logo.png
+      title: Full Stack Developer
+      company: Revenue Monster
+      duration: May 2020 - July 2020
+      description: "test hello world this is a description for experience \n
+
+      jajajjaja"
+    - logo: https://res.cloudinary.com/dqa9brug6/image/upload/c_fill/v1663992262/blog/logos/bcg-logo.png
+      title: Intern
+      company: Boston Consulting Group
+      duration: July 2017 - August 2017
+      description: 
 hackathons:
-  enable: true
+  enable: false
   item:
     - title: Hack Cambridge 2019
       description: Climate change simulator
@@ -68,7 +75,7 @@ education:
     - title: MEng Computer Science
       year: 2018 - 2022
       academy: University of Southampton
-      image: https://res.cloudinary.com/dqa9brug6/image/upload/h_900,w_900/v1663847281/blog/logos/soton-uni-logo.jpg
+      image: https://res.cloudinary.com/dqa9brug6/image/upload/c_fit/v1663847281/blog/logos/soton-uni-logo.jpg
       result: First Class Honours
 leadership:
   enable: false
