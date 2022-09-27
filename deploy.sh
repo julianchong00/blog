@@ -16,9 +16,9 @@ git add .
 
 # Commit changes. 
 if [ -n "$*" ]; then
-    msg="Deploying site $(date)"    
-else
     msg="$*"
+else
+    msg="Deploying site $(date)"
 fi
 
 # Commit changes
