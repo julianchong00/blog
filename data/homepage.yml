@@ -45,14 +45,16 @@ experience:
       title: Full Stack Developer
       company: Revenue Monster
       duration: May 2020 - July 2020
-      description: "test hello world this is a description for experience \n
-
-      jajajjaja"
+      description:
+        - desc: hello
+        - desc: world
     - logo: https://res.cloudinary.com/dqa9brug6/image/upload/c_fill/v1663992262/blog/logos/bcg-logo.png
       title: Intern
       company: Boston Consulting Group
       duration: July 2017 - August 2017
       description: 
+        - desc: hello
+        - desc: BCG
 hackathons:
   enable: false
   item:
