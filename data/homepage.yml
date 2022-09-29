@@ -46,15 +46,17 @@ experience:
       company: Revenue Monster
       duration: May 2020 - July 2020
       description:
-        - desc: hello
-        - desc: world
+        - desc: Responsible for developing online and contacless e-Payment API Gateway and Services, 
+                which was to be deployed to a microservices cluster using Docker and Kubernetes.
+        - desc: Cooperated remotely with a team to build a front-end webpage that would interact with the new API Gateway Services.
+        - desc: "<b>Skills</b>: Golang, Javascript, HTML, CSS"
     - logo: https://res.cloudinary.com/dqa9brug6/image/upload/c_fill/v1663992262/blog/logos/bcg-logo.png
       title: Intern
       company: Boston Consulting Group
       duration: July 2017 - August 2017
       description: 
-        - desc: hello
-        - desc: BCG
+        - desc: Managed and updated the company's database on current and former employees' information.
+        - desc: Gained an insight into employee and company structure, and how it impacts company operations.
 hackathons:
   enable: false
   item:
