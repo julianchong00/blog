@@ -4,7 +4,7 @@ lastmod: 2019-10-26T15:26:15Z
 publishdate: 2018-11-23T15:26:15Z
 author: Sam Robbins
 title: Sam Robbins' Website
-description: I'm a second year Computer Science student at Durham
+description: I'm a First Class Honour Computer Science graduate from the University of Southampton
 images:
 - home-cover.png
 ---
