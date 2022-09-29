@@ -36,7 +36,7 @@ skill:
       logo: https://res.cloudinary.com/dqa9brug6/image/upload/c_fit/v1663845439/blog/logos/golang-logo.svg
       description: Golang description
     - title: Linux
-      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1663845318/blog/logos/linux-logo.svg
+      logo: https://res.cloudinary.com/dqa9brug6/image/upload/v1664447610/blog/logos/linux-tux-logo.svg
       description: Linux description
 experience:
   enable: true

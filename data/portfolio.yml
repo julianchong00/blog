@@ -1,5 +1,5 @@
 filter:
   - label: Web Dev
     value: web-dev
-  - label: Reading
-    value: reading
+  - label: Application
+    value: application
