@@ -1,5 +1,9 @@
 filter:
-  - label: Web Dev
-    value: web-dev
+  - label: Tech
+    value: tech
+  - label: Career
+    value: career
   - label: Reading
     value: reading
+  - label: Personal
+    value: personal

@@ -1,5 +1,5 @@
 filter:
   - label: Web Dev
     value: web-dev
-  - label: Application
-    value: application
+  - label: Python
+    value: python

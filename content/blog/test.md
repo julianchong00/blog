@@ -2,6 +2,9 @@
 title: "Test Post Title"
 date: 2022-09-06T17:55:11+10:00
 description: "This is a test description for the test post"
+author: "Julian Chong"
+type: "post"
+draft: true
 tags: ["web-dev"]
 ---
 

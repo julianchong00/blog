@@ -6,7 +6,7 @@ description = "A simple discord bot written in Python with Hikari + Lightbulb"
 github = ["https://github.com/julianchong00/RotiBot-Hikari"]
 image = "https://res.cloudinary.com/dqa9brug6/image/upload/v1664447046/blog/logos/discord-logo.svg"
 type = "post"
-categories = ["application"]
+categories = ["python"]
 coders = [] 
 [[tech]]
 logo = "https://res.cloudinary.com/dqa9brug6/image/upload/v1663845204/blog/logos/python-logo.svg"
@@ -24,7 +24,8 @@ url = "https://github.com/tandemdude/hikari-lightbulb"
 
 TODO: Write post for Rotibot
 
-- Talk about entire process from creating bot, getting token, setting permissions, reading tutorials.
+- Talk about entire process from creating bot, getting token, setting permissions (bot scope), reading tutorials (link to carberra, hikari+lightbulb tutorials, docs).
 - Setup of project, hikari+lightbulb+python, creating commands and subcommands (embeds, API calls, component tic-tac-toe, casino game)
 - Setup database, SQLAlchemy ORM, PostgreSQL database, hosting and deployment on Heroku
 - Upload and use images accordingly
+- Also use code snippets to illustrate bot functions
